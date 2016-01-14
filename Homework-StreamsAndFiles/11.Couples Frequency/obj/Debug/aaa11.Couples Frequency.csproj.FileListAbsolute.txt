@@ -1,0 +1,6 @@
+D:\VisualStudio\06Streams\11.Couples Frequency\bin\Debug\11.Couples Frequency.exe.config
+D:\VisualStudio\06Streams\11.Couples Frequency\obj\Debug\11.Couples Frequency.exe
+D:\VisualStudio\06Streams\11.Couples Frequency\obj\Debug\11.Couples Frequency.pdb
+D:\VisualStudio\06Streams\11.Couples Frequency\bin\Debug\11.Couples Frequency.exe
+D:\VisualStudio\06Streams\11.Couples Frequency\bin\Debug\11.Couples Frequency.pdb
+D:\VisualStudio\06Streams\11.Couples Frequency\obj\Debug\aaa11.Couples Frequency.csprojResolveAssemblyReference.cache

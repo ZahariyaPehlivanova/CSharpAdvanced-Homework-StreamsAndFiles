@@ -1,0 +1,8 @@
+StreamReader defaults to UTF-8 encoding unless specified otherwise, instead of defaulting to the ANSI code page for the current system. 
+UTF-8 handles Unicode characters correctly and provides consistent results on localized versions of the operating system.
+ If you get the current character encoding using the CurrentEncoding property, the value is not reliable until after the first Read method, 
+since encoding auto detection is not done until the first call to a Read method.
+By default, a StreamReader is not thread safe. See TextReader.Synchronized for a thread-safe wrapper.
+The Read(Char[], Int32, Int32) and Write(Char[], Int32, Int32) method overloads read and write the number of characters specified by the count parameter.
+ These are to be distinguished from BufferedStream.Read and BufferedStream.Write, which read and write the number of bytes specified by the count parameter. 
+Use the BufferedStream methods only for reading and writing an integral number of byte array elements.

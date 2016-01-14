@@ -1,0 +1,6 @@
+D:\VisualStudio\06Streams\04.Copy Binary File\bin\Debug\04.Copy Binary File.exe.config
+D:\VisualStudio\06Streams\04.Copy Binary File\bin\Debug\04.Copy Binary File.exe
+D:\VisualStudio\06Streams\04.Copy Binary File\bin\Debug\04.Copy Binary File.pdb
+D:\VisualStudio\06Streams\04.Copy Binary File\obj\Debug\04.Copy Binary File.csprojResolveAssemblyReference.cache
+D:\VisualStudio\06Streams\04.Copy Binary File\obj\Debug\04.Copy Binary File.exe
+D:\VisualStudio\06Streams\04.Copy Binary File\obj\Debug\04.Copy Binary File.pdb

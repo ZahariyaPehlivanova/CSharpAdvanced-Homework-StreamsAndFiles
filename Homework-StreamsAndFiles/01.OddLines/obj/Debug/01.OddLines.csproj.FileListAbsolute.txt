@@ -1,0 +1,6 @@
+D:\VisualStudio\06Streams\01.OddLines\bin\Debug\01.OddLines.exe.config
+D:\VisualStudio\06Streams\01.OddLines\bin\Debug\01.OddLines.exe
+D:\VisualStudio\06Streams\01.OddLines\bin\Debug\01.OddLines.pdb
+D:\VisualStudio\06Streams\01.OddLines\obj\Debug\01.OddLines.csprojResolveAssemblyReference.cache
+D:\VisualStudio\06Streams\01.OddLines\obj\Debug\01.OddLines.exe
+D:\VisualStudio\06Streams\01.OddLines\obj\Debug\01.OddLines.pdb

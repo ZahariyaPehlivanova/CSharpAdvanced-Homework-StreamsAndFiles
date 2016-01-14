@@ -1,0 +1,6 @@
+D:\VisualStudio\06Streams\09.Disk\bin\Debug\09.Disk.exe.config
+D:\VisualStudio\06Streams\09.Disk\bin\Debug\09.Disk.exe
+D:\VisualStudio\06Streams\09.Disk\bin\Debug\09.Disk.pdb
+D:\VisualStudio\06Streams\09.Disk\obj\Debug\09.Disk.csprojResolveAssemblyReference.cache
+D:\VisualStudio\06Streams\09.Disk\obj\Debug\09.Disk.exe
+D:\VisualStudio\06Streams\09.Disk\obj\Debug\09.Disk.pdb

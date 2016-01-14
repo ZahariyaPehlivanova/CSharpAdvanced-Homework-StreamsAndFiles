@@ -1,0 +1,6 @@
+D:\VisualStudio\06Streams\05.Slicing File\bin\Debug\05.Slicing File.exe.config
+D:\VisualStudio\06Streams\05.Slicing File\obj\Debug\aa05.Slicing File.csprojResolveAssemblyReference.cache
+D:\VisualStudio\06Streams\05.Slicing File\bin\Debug\05.Slicing File.exe
+D:\VisualStudio\06Streams\05.Slicing File\bin\Debug\05.Slicing File.pdb
+D:\VisualStudio\06Streams\05.Slicing File\obj\Debug\05.Slicing File.exe
+D:\VisualStudio\06Streams\05.Slicing File\obj\Debug\05.Slicing File.pdb

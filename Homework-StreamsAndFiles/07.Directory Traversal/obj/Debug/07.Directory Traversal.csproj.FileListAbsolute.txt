@@ -1,0 +1,6 @@
+D:\VisualStudio\06Streams\07.Directory Traversal\bin\Debug\07.Directory Traversal.exe.config
+D:\VisualStudio\06Streams\07.Directory Traversal\bin\Debug\07.Directory Traversal.exe
+D:\VisualStudio\06Streams\07.Directory Traversal\bin\Debug\07.Directory Traversal.pdb
+D:\VisualStudio\06Streams\07.Directory Traversal\obj\Debug\07.Directory Traversal.csprojResolveAssemblyReference.cache
+D:\VisualStudio\06Streams\07.Directory Traversal\obj\Debug\07.Directory Traversal.exe
+D:\VisualStudio\06Streams\07.Directory Traversal\obj\Debug\07.Directory Traversal.pdb

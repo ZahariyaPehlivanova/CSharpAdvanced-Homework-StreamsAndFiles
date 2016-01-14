@@ -1,0 +1,5 @@
+D:\VisualStudio\06Streams\06.ZippingSlicedFiles\bin\Debug\06.ZippingSlicedFiles.exe.config
+D:\VisualStudio\06Streams\06.ZippingSlicedFiles\bin\Debug\06.ZippingSlicedFiles.exe
+D:\VisualStudio\06Streams\06.ZippingSlicedFiles\bin\Debug\06.ZippingSlicedFiles.pdb
+D:\VisualStudio\06Streams\06.ZippingSlicedFiles\obj\Debug\06.ZippingSlicedFiles.exe
+D:\VisualStudio\06Streams\06.ZippingSlicedFiles\obj\Debug\06.ZippingSlicedFiles.pdb

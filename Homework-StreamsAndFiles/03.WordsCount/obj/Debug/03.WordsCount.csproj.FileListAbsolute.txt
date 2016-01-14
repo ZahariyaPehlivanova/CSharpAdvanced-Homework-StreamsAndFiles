@@ -1,0 +1,6 @@
+D:\VisualStudio\06Streams\03.WordsCount\bin\Debug\03.WordsCount.exe.config
+D:\VisualStudio\06Streams\03.WordsCount\bin\Debug\03.WordsCount.exe
+D:\VisualStudio\06Streams\03.WordsCount\bin\Debug\03.WordsCount.pdb
+D:\VisualStudio\06Streams\03.WordsCount\obj\Debug\03.WordsCount.csprojResolveAssemblyReference.cache
+D:\VisualStudio\06Streams\03.WordsCount\obj\Debug\03.WordsCount.exe
+D:\VisualStudio\06Streams\03.WordsCount\obj\Debug\03.WordsCount.pdb

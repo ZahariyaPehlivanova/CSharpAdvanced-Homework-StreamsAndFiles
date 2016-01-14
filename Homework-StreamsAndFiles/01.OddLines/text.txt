@@ -1,0 +1,9 @@
+ The compression functionality in DeflateStream and
+ GZipStream is exposed as a stream. Data is read on a
+ byte-by-byte basis, so it is not possible to perform
+ multiple passes to determine the best method for
+ compressing entire files or large blocks of data.
+ The DeflateStream and GZipStream classes are best used
+ on uncompressed sources of data. If the source data is
+ already compressed, using these classes may actually 
+increase the size of the stream.

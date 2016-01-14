@@ -1,0 +1,3 @@
+word: is-> count: 3
+word: quick-> count: 2
+word: fault-> count: 1
